@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('../fonts/Gotham Cyrillic/GothaProMed.oft');
+    src: local('../fonts/Gotham Cyrillic/GothaProMed'), local('GothaProMed'),
+         url('../fonts/Gotham Cyrillic/GothaProMed.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Gotham Cyrillic/GothaProMed.woff') format('woff'),
+         url('../fonts/Gotham Cyrillic/GothaProMed.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
